@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Marcin Godlewski
-### Front-end Developer working on internal Front projects at ```Grupa ZPR Media``` company.
+### Junior Front-end Developer working on internal Front projects at ```Grupa ZPR Media``` company.
 
 - 🔭 I’m currently working at: [Grupa ZPR Media](https://www.grupazpr.pl/)
 - 🌱 I’m currently learning: `React`, `React Native`
