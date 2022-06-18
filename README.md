@@ -4,8 +4,8 @@
 - 🔭 I’m currently working at: [Grupa ZPR Media](https://www.grupazpr.pl/)
 - 🌱 I’m currently learning: `React`, `React Native`
 - 📫 How to reach me: [My website](https://goldipl.github.io/Marcin-Programuje/)
-- 🎓 Computer Science Diploma **Frontend Development with React** Kozminski University
-- 🎓 Computer Science Diploma **Java EE - Software production** Warsaw University of Technology
+- 🎓 Computer Science Diploma **Frontend Development with React** from Kozminski University
+- 🎓 Computer Science Diploma **Java EE - Software production** from Warsaw University of Technology
 - 🎓 **Master of Science in Engineering** Diploma from Warsaw University of Technology
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
