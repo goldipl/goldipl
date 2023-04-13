@@ -16,8 +16,8 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php)](https://skillicons.dev)
 
 ### Projects in Development Status:
-* Bomberman Game <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
-* Quiz App <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="24" height="24"/>
-* E-commerce App <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="24" height="24"/> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="24" height="24"/> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="24" height="24"/>
-* PhotoPassion Landing Page <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="24" height="24"/> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="24" height="24"/> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="24" height="24"/>
-* Jedzenie Karoli website <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="24" height="24"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
+* Bomberman Game
+* Quiz App
+* E-commerce App
+* PhotoPassion Landing Page
+* Jedzenie Karoli website
