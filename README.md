@@ -20,4 +20,4 @@
 * Quiz App
 * E-commerce App
 * PhotoPassion Landing Page
-* Jedzenie Karoli website
+* Self-storage Website
