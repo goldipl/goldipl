@@ -2,7 +2,7 @@
 ### Web Developer working on internal Front projects at ```Grupa ZPR Media``` company.
 
 - 🔭 I’m currently working at: [Grupa ZPR Media](https://www.grupazpr.pl/)
-- 🌱 I’m currently improving in/learning: `React`, `TypeScript`
+- 🌱 I’m currently improving in/learning: `React`, `Vue`
 - 📫 How to reach me: [My website](https://goldipl.github.io/Marcin-Programuje/)
 - 🎓 Computer Science Diploma **Frontend Development with React** from Kozminski University
 - 🎓 Computer Science Diploma **Java EE - Software production** from Warsaw University of Technology
