@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,ps,netlify,heroku,github,gitlab)](https://skillicons.dev)
 
 ### Still learning and improving my skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue)](https://skillicons.dev)
 
 ### Projects in Development Status:
 * Bomberman Game
