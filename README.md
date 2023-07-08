@@ -12,7 +12,7 @@
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,ps,netlify,heroku,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab)](https://skillicons.dev)
 
 ### Still learning and improving my skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue)](https://skillicons.dev)
