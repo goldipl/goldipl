@@ -12,17 +12,10 @@
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
 
 ### Still learning and improving my skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue)](https://skillicons.dev)
-
-### Projects in Development Status:
-* Bomberman Game
-* Quiz App
-* E-commerce App
-* PhotoPassion Landing Page
-* Self-storage Website
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue&perline=10)](https://skillicons.dev)
 
 ### My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldipl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
