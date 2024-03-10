@@ -18,4 +18,4 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next,tailwind&perline=10)](https://skillicons.dev)
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldipl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
