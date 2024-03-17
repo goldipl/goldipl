@@ -12,10 +12,10 @@
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
 
 ### Still learning and improving my skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next&perline=10)](https://skillicons.dev)
 
 ### My stats:
 ![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
