@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at: [Grupa ZPR Media](https://www.grupazpr.pl/)
 - 🌱 I’m currently improving in/learning: `React.js`, `Next.js`, `TypeScript`, `PHP`
-- 📫 How to reach me: [My website](https://goldipl.github.io/Marcin-Programuje/)
+- 📫 How to reach me: [My website](https://goldipl.github.io/vuejs-tailwindcss-portfolio/)
 - 🎓 Computer Science Diploma **Frontend Development with React** from Kozminski University
 - 🎓 Computer Science Diploma **Java EE - Software production** from Warsaw University of Technology
 - 🎓 **Master of Science in Engineering** Diploma from Warsaw University of Technology
