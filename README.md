@@ -17,7 +17,7 @@
 ### Still learning and improving my skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next&perline=10)](https://skillicons.dev)
 
-### Connect with me
+### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcin-godlewski-153897139/)
 
