@@ -23,3 +23,6 @@
 
 ### My stats:
 ![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
+
+### Profile views:
+![](https://komarev.com/ghpvc/?username=goldiple&style=for-the-badge&color=blueviolet)
