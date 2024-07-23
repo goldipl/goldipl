@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcin-godlewski-153897139/)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goldipl/)
 
 ### My stats:
 ![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
