@@ -4,7 +4,7 @@
 ### Front-end Developer working on internal Front projects at ```Grupa ZPR Media``` company.
 
 - 🔭 I’m currently working at: [Grupa ZPR Media](https://www.grupazpr.pl/)
-- 🌱 I’m currently improving in/learning: `Angular.js`, `React.js`, `Next.js`, `TypeScript`, `Vue.js`
+- 🌱 I’m currently improving in/learning: `React.js`, `Next.js`, `TypeScript`
 - 📫 How to reach me: [My website](https://mgodlewskidev.pl/)
 - 🎓 Computer Science Diploma **Frontend Development with React** from Kozminski University
 - 🎓 Computer Science Diploma **Java EE - Software production** from Warsaw University of Technology
