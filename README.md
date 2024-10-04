@@ -19,7 +19,9 @@
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goldipl/)
+<a href="https://www.linkedin.com/in/goldipl/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin">
+</a>
 
 ### My stats:
 ![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
