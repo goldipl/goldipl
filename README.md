@@ -1,7 +1,7 @@
 ### Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ![Header](./hero-img.png)
 
-### Front-end Developer working on internal Front projects at ```Grupa ZPR Media``` company.
+### Frontend Developer working on internal Front projects at ```Grupa ZPR Media``` company.
 
 - 🔭 I’m currently working at: <a href="https://www.grupazpr.pl/" target="_blank">Grupa ZPR Media</a>
 - 🌱 I’m currently improving in/learning: `React.js`, `Next.js`, `TypeScript`
