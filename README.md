@@ -23,8 +23,5 @@
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin">
 </a>
 
-### My stats:
-![goldipl's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldipl&show_icons=true&theme=dracula)
-
 ### Profile views since 13/05/2024:
 ![](https://komarev.com/ghpvc/?username=goldiple&style=for-the-badge&color=blueviolet)
