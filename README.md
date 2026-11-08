@@ -1,6 +1,6 @@
 ### Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### Frontend Developer | AI Engineer | Software Engineer
+### Frontend Developer 🟣 AI Engineer 🟣 Software Engineer
 
 - 🔭 I’m looking for a new job
 - 📫 How to reach me: <a href="https://mgodlewskidev.pl/" target="_blank">My website</a>
