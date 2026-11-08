@@ -1,5 +1,4 @@
 ### Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-![Header](./hero-img.png)
 
 ### Frontend Developer | AI Engineer | Software Engineer
 
