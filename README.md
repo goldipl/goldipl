@@ -15,13 +15,12 @@
 
 ### Featured Projects
 
-- 🥗 **[Bezglutenowa Karola](https://github.com/goldipl/foods-website)** — A website sharing gluten-free recipes and inspiration. *TypeScript · Astro*
-- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan.
+- 🥗 **[Bezglutenowa Karola](https://github.com/goldipl/foods-website)** — A website sharing gluten-free recipes and inspiration. *TypeScript · Next.js · React · Sass/SCSS*
+- 🛒 **[MACMA](https://github.com/goldipl/Macma)** — An e-commerce website with product listings, cart, user accounts, and offer pages. *PHP · Sass/SCSS · Bootstrap · jQuery · JavaScript*
+- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A redesigned store for promotional products: an intuitive catalogue, advanced filters, product variants and a streamlined ordering process. *PHP · Sass/SCSS · Bootstrap · jQuery · JavaScript*
+- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan. *Next.js · React · TypeScript · Sass/SCSS · GitHub Actions*
 - 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · TypeScript · Material UI*
-- ⭐ **[Review Platform](https://github.com/goldipl/react-strapi-graphql-site)** — A type-safe review platform with GraphQL data fetching and Strapi integration. *React · TypeScript · Apollo Client*
 - 🥗 **[MyDietician](https://github.com/goldipl/my-dietician)** — A nutrition planning app that calculates BMI, healthy weight ranges, and calorie needs. *Next.js · TypeScript*
-- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A full-featured online store for promotional products and gadgets, including product catalogs, shopping cart, and user accounts.
-- 🛒 **[MACMA](https://github.com/goldipl/Macma)** — An e-commerce website with product listings, cart, user accounts, and offer pages. *PHP · SCSS · Bootstrap · jQuery · JavaScript*
 - 🗡️ **[Shattered Vale RPG](https://github.com/goldipl/Shattered-Vale-RPG)** — A top-down action RPG featuring exploration, NPCs, and combat, built with vanilla JavaScript and HTML5 Canvas.
 
 ### Connect with me:
