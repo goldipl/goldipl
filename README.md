@@ -11,15 +11,16 @@
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,py)
 
 ### Featured Projects
 
-- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan. *Next.js · TypeScript*
-- 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · TypeScript*
+- 🥗 **[Bezglutenowa Karola](https://github.com/goldipl/foods-website)** — A website sharing gluten-free recipes and inspiration. *TypeScript · Astro*
+- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan.
+- 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · TypeScript · Material UI*
 - ⭐ **[Review Platform](https://github.com/goldipl/react-strapi-graphql-site)** — A type-safe review platform with GraphQL data fetching and Strapi integration. *React · TypeScript · Apollo Client*
 - 🥗 **[MyDietician](https://github.com/goldipl/my-dietician)** — A nutrition planning app that calculates BMI, healthy weight ranges, and calorie needs. *Next.js · TypeScript*
-- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A full-featured online store for promotional products and gadgets, including product catalogs, shopping cart, user accounts, and custom configurators. *PHP · SCSS · Bootstrap · JavaScript*
+- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A full-featured online store for promotional products and gadgets, including product catalogs, shopping cart, and user accounts.
 - 🛒 **[MACMA](https://github.com/goldipl/Macma)** — An e-commerce website with product listings, cart, user accounts, and offer pages. *PHP · SCSS · Bootstrap · jQuery · JavaScript*
 - 🗡️ **[Shattered Vale RPG](https://github.com/goldipl/Shattered-Vale-RPG)** — A top-down action RPG featuring exploration, NPCs, and combat, built with vanilla JavaScript and HTML5 Canvas.
 
