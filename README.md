@@ -11,17 +11,18 @@
 - 🎓 **Bachelor of Science in Engineering** Diploma from Warsaw University of Technology
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,py)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,py [...])
 
 ### Featured Projects
 
 - 🥗 **[Bezglutenowa Karola](https://github.com/goldipl/foods-website)** — A website sharing gluten-free recipes and inspiration. *TypeScript · Next.js · React · Sass/SCSS*
 - 🛒 **[MACMA](https://github.com/goldipl/Macma)** — An e-commerce website with product listings, cart, user accounts, and offer pages. *PHP · Sass/SCSS · Bootstrap · jQuery · JavaScript*
-- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A redesigned store for promotional products: an intuitive catalogue, advanced filters, product variants and a streamlined ordering process. *PHP · Sass/SCSS · Bootstrap · jQuery · JavaScript*
-- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan. *Next.js · React · TypeScript · Sass/SCSS · GitHub Actions*
-- 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · TypeScript · Material UI*
+- 🛍️ **[Dream E-commerce](https://github.com/goldipl/dream-e-commerce)** — A redesigned store for promotional products: an intuitive catalogue, advanced filters, product variants and a streamlined shopping experience. *React · TypeScript · Sass/SCSS*
+- 🧱 **[Brickly Planner](https://github.com/goldipl/brickly-planner)** — Plan a house build or renovation with itemized cost estimates, a Gantt-style schedule, and a monthly spending plan. *Next.js · TypeScript · React* 
+- 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · MUI · TypeScript*
 - 🥗 **[MyDietician](https://github.com/goldipl/my-dietician)** — A nutrition planning app that calculates BMI, healthy weight ranges, and calorie needs. *Next.js · TypeScript*
 - 🗡️ **[Shattered Vale RPG](https://github.com/goldipl/Shattered-Vale-RPG)** — A top-down action RPG featuring exploration, NPCs, and combat, built with vanilla JavaScript and HTML5 Canvas.
+- 🤖 **[Cyborg Game](https://github.com/goldipl/cyborg-game)** — A futuristic browser game experience with action, enemies, and a cyberpunk feel. *JavaScript · HTML5 Canvas · CSS*
 
 ### Connect with me:
 
