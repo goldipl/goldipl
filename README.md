@@ -22,7 +22,7 @@
 - 📰 **[Editorial Dashboard](https://github.com/goldipl/mui-dashboard)** — A newsroom dashboard for managing articles, media libraries, editorial workflows, and multiple publications. *React 19 · MUI · TypeScript*
 - 🥗 **[MyDietician](https://github.com/goldipl/my-dietician)** — A nutrition planning app that calculates BMI, healthy weight ranges, and calorie needs. *Next.js · TypeScript*
 - 🗡️ **[Shattered Vale RPG](https://github.com/goldipl/Shattered-Vale-RPG)** — A top-down action RPG featuring exploration, NPCs, and combat, built with vanilla JavaScript and HTML5 Canvas.
-- 🤖 **[Cyborg Game](https://github.com/goldipl/cyborg-game)** — A futuristic browser game experience with action, enemies, and a cyberpunk feel. *JavaScript · HTML5 Canvas · CSS*
+- 🤖 **[Cyborg Game](https://github.com/goldipl/Cyborg_Game)** — A futuristic browser game experience with action, enemies, and a cyberpunk feel. *JavaScript · HTML5 Canvas · CSS*
 
 ### Connect with me:
 
